@@ -3,6 +3,7 @@
 
 ### Brief introduction
 [The August 2022 edition of the Tabular Playground Series Competition](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview)
+
 任務的目標是根據現有資料預測Keep It Dry公司產品Super Soaker的產品失敗機率，train data和test data分別有不同的product code。
 因為data特徵數量多且複雜，且其中有很多noise，所以我將訓練的重點放在資料的處理和過濾上，模型則是選用LogisticRegression。
 
