@@ -15,4 +15,8 @@
 5. Execute 109550171_Final_inference.ipynb to get the result csv file
 
 ### Ablation study
-![image](https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png){:height="100px" width="400px"}
+![image](https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png)
+
+### Comparisons of different approaches
+![image](https://user-images.githubusercontent.com/86610644/211273442-7704b7da-7a16-41eb-b4d2-1adb97522e90.png)
+
