@@ -7,6 +7,6 @@
 
 ### Reproducing result
 1. Rebuild environment : `pip install -r requirements.txt`
-2. Download [109550171_Final_inference.ipynb](https://reurl.cc/EX0ypk) and [weights.joblib](https://reurl.cc/NGM97x)
+2. Download [109550171_Final_inference.ipynb](https://github.com/moirachen1019/Machine-Learning/blob/main/Final_Project/109550171_Final_inference.ipynb) and [weights.joblib](https://reurl.cc/NGM97x)
 3. Modify the path of test.csv and weights.joblib
 4. Execute 109550171_Final_inference.ipynb to get submission.csv
