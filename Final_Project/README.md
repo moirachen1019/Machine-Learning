@@ -11,8 +11,9 @@
 1. Rebuild environment : `pip install -r requirements.txt`
 2. Download [109550171_Final_inference.ipynb](https://github.com/moirachen1019/Machine-Learning/blob/main/Final_Project/109550171_Final_inference.ipynb)
 3. Download [weights.joblib](https://reurl.cc/NGM97x)
-4. Modify the paths in the code
-5. Execute 109550171_Final_inference.ipynb to get the result csv file
+4. Download []
+5. Modify the paths in the code
+6. Execute 109550171_Final_inference.ipynb to get the result csv file
 
 ### Ablation study
 <img src="https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png" alt="Ablation study" width="700"/>
