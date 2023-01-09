@@ -8,7 +8,7 @@
 因為 data 特徵數量多且複雜，且其中有很多 noise，所以我訓練的重點放在資料的處理和過濾上，模型則是選用 LogisticRegression。
 
 ### Reproducing result
-python version : python 3.9.13
+Python version : Python 3.9.13
 1. Download [requirements.txt](https://github.com/moirachen1019/Machine-Learning/blob/main/Final_Project/requirements.txt)
 2. Download [109550171_Final_inference.ipynb](https://github.com/moirachen1019/Machine-Learning/blob/main/Final_Project/109550171_Final_inference.ipynb)
 3. Download [weights.joblib](https://reurl.cc/NGM97x)
