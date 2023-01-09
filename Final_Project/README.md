@@ -18,4 +18,4 @@
 <img src="https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png" alt="Ablation study" width="700"/>
 
 ### Comparisons of different approaches
-<img src="[https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png](https://user-images.githubusercontent.com/86610644/211273442-7704b7da-7a16-41eb-b4d2-1adb97522e90.png)" alt="comparison" width="700"/>
+<img src="https://user-images.githubusercontent.com/86610644/211272853-5c161d21-47f7-460a-8ad4-c2ffe077f841.png" alt="comparison" width="700"/>
