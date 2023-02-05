@@ -7,6 +7,9 @@
 任務的目標是根據現有資料預測 Keep It Dry 公司產品 Super Soaker 的產品失敗機率，train data 和 test data 分別有不同的 product code。
 因為 data 特徵數量多且複雜，且其中有很多 noise，所以我訓練的重點放在資料的處理和過濾上，模型則是選用 LogisticRegression。
 
+### Private Score
+0.5
+
 ### Reproducing result
 Python version : Python 3.9.13
 1. Download [requirements.txt](https://github.com/moirachen1019/Machine-Learning/blob/main/Final_Project/requirements.txt)
